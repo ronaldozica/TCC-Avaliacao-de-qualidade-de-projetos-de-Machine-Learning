@@ -1,0 +1,309 @@
+Repository: tensorflow
+Clone URL: https://github.com/tensorflow/tensorflow
+==================================================
+Repository: scikit-learn
+Clone URL: https://github.com/scikit-learn/scikit-learn
+==================================================
+Repository: Paddle
+Clone URL: https://github.com/PaddlePaddle/Paddle
+==================================================
+Repository: onnx
+Clone URL: https://github.com/onnx/onnx
+==================================================
+Repository: mlflow
+Clone URL: https://github.com/mlflow/mlflow
+==================================================
+Repository: LightGBM
+Clone URL: https://github.com/microsoft/LightGBM
+==================================================
+Repository: brpc
+Clone URL: https://github.com/apache/brpc
+==================================================
+Repository: numpy-ml
+Clone URL: https://github.com/ddbourgin/numpy-ml
+==================================================
+Repository: imgaug
+Clone URL: https://github.com/aleju/imgaug
+==================================================
+Repository: ChatterBot
+Clone URL: https://github.com/gunthercox/ChatterBot
+==================================================
+Repository: kubeflow
+Clone URL: https://github.com/kubeflow/kubeflow
+==================================================
+Repository: dlib
+Clone URL: https://github.com/davisking/dlib
+==================================================
+Repository: turicreate
+Clone URL: https://github.com/apple/turicreate
+==================================================
+Repository: lime
+Clone URL: https://github.com/marcotcr/lime
+==================================================
+Repository: MLAlgorithms
+Clone URL: https://github.com/rushter/MLAlgorithms
+==================================================
+Repository: golearn
+Clone URL: https://github.com/sjwhitworth/golearn
+==================================================
+Repository: machinelearning
+Clone URL: https://github.com/dotnet/machinelearning
+==================================================
+Repository: pattern
+Clone URL: https://github.com/clips/pattern
+==================================================
+Repository: vowpal_wabbit
+Clone URL: https://github.com/VowpalWabbit/vowpal_wabbit
+==================================================
+Repository: machine-learning-systems-design
+Clone URL: https://github.com/chiphuyen/machine-learning-systems-design
+==================================================
+Repository: cortex
+Clone URL: https://github.com/cortexlabs/cortex
+==================================================
+Repository: ggml
+Clone URL: https://github.com/ggerganov/ggml
+==================================================
+Repository: machine-learning-zoomcamp
+Clone URL: https://github.com/DataTalksClub/machine-learning-zoomcamp
+==================================================
+Repository: catboost
+Clone URL: https://github.com/catboost/catboost
+==================================================
+Repository: auto-sklearn
+Clone URL: https://github.com/automl/auto-sklearn
+==================================================
+Repository: sktime
+Clone URL: https://github.com/sktime/sktime
+==================================================
+Repository: introduction_to_ml_with_python
+Clone URL: https://github.com/amueller/introduction_to_ml_with_python
+==================================================
+Repository: imbalanced-learn
+Clone URL: https://github.com/scikit-learn-contrib/imbalanced-learn
+==================================================
+Repository: h2o-3
+Clone URL: https://github.com/h2oai/h2o-3
+==================================================
+Repository: alluxio
+Clone URL: https://github.com/Alluxio/alluxio
+==================================================
+Repository: tensorflow_cookbook
+Clone URL: https://github.com/nfmcclure/tensorflow_cookbook
+==================================================
+Repository: MachineLearning_Python
+Clone URL: https://github.com/lawlite19/MachineLearning_Python
+==================================================
+Repository: pyprobml
+Clone URL: https://github.com/probml/pyprobml
+==================================================
+Repository: cog
+Clone URL: https://github.com/replicate/cog
+==================================================
+Repository: gorgonia
+Clone URL: https://github.com/gorgonia/gorgonia
+==================================================
+Repository: flashlight
+Clone URL: https://github.com/flashlight/flashlight
+==================================================
+Repository: feast
+Clone URL: https://github.com/feast-dev/feast
+==================================================
+Repository: mlpack
+Clone URL: https://github.com/mlpack/mlpack
+==================================================
+Repository: interpretable-ml-book
+Clone URL: https://github.com/christophM/interpretable-ml-book
+==================================================
+Repository: mlxtend
+Clone URL: https://github.com/rasbt/mlxtend
+==================================================
+Repository: river
+Clone URL: https://github.com/online-ml/river
+==================================================
+Repository: causalml
+Clone URL: https://github.com/uber/causalml
+==================================================
+Repository: machinelearning-samples
+Clone URL: https://github.com/dotnet/machinelearning-samples
+==================================================
+Repository: adversarial-robustness-toolbox
+Clone URL: https://github.com/Trusted-AI/adversarial-robustness-toolbox
+==================================================
+Repository: yellowbrick
+Clone URL: https://github.com/DistrictDataLabs/yellowbrick
+==================================================
+Repository: tsai
+Clone URL: https://github.com/timeseriesAI/tsai
+==================================================
+Repository: seldon-core
+Clone URL: https://github.com/SeldonIO/seldon-core
+==================================================
+Repository: cml
+Clone URL: https://github.com/iterative/cml
+==================================================
+Repository: MachineLearningNotebooks
+Clone URL: https://github.com/Azure/MachineLearningNotebooks
+==================================================
+Repository: mlfinlab
+Clone URL: https://github.com/hudson-and-thames/mlfinlab
+==================================================
+Repository: tensorwatch
+Clone URL: https://github.com/microsoft/tensorwatch
+==================================================
+Repository: pipelines
+Clone URL: https://github.com/kubeflow/pipelines
+==================================================
+Repository: EconML
+Clone URL: https://github.com/py-why/EconML
+==================================================
+Repository: openmlsys-zh
+Clone URL: https://github.com/openmlsys/openmlsys-zh
+==================================================
+Repository: ml-workspace
+Clone URL: https://github.com/ml-tooling/ml-workspace
+==================================================
+Repository: higgsfield
+Clone URL: https://github.com/higgsfield-ai/higgsfield
+==================================================
+Repository: Merlion
+Clone URL: https://github.com/salesforce/Merlion
+==================================================
+Repository: xlearn
+Clone URL: https://github.com/aksnzhy/xlearn
+==================================================
+Repository: linfa
+Clone URL: https://github.com/rust-ml/linfa
+==================================================
+Repository: DifferentialEquations.jl
+Clone URL: https://github.com/SciML/DifferentialEquations.jl
+==================================================
+Repository: tslearn
+Clone URL: https://github.com/tslearn-team/tslearn
+==================================================
+Repository: ComputeLibrary
+Clone URL: https://github.com/ARM-software/ComputeLibrary
+==================================================
+Repository: determined
+Clone URL: https://github.com/determined-ai/determined
+==================================================
+Repository: pipcook
+Clone URL: https://github.com/alibaba/pipcook
+==================================================
+Repository: TransmogrifAI
+Clone URL: https://github.com/salesforce/TransmogrifAI
+==================================================
+Repository: datasets
+Clone URL: https://github.com/unsplash/datasets
+==================================================
+Repository: alibi
+Clone URL: https://github.com/SeldonIO/alibi
+==================================================
+Repository: feature-selector
+Clone URL: https://github.com/WillKoehrsen/feature-selector
+==================================================
+Repository: iree
+Clone URL: https://github.com/openxla/iree
+==================================================
+Repository: sagemaker-python-sdk
+Clone URL: https://github.com/aws/sagemaker-python-sdk
+==================================================
+Repository: ManimML
+Clone URL: https://github.com/helblazer811/ManimML
+==================================================
+Repository: ML
+Clone URL: https://github.com/RubixML/ML
+==================================================
+Repository: magenta-js
+Clone URL: https://github.com/magenta/magenta-js
+==================================================
+Repository: Simd
+Clone URL: https://github.com/ermig1979/Simd
+==================================================
+Repository: AI-Blocks
+Clone URL: https://github.com/MrNothing/AI-Blocks
+==================================================
+Repository: secretflow
+Clone URL: https://github.com/secretflow/secretflow
+==================================================
+Repository: ogb
+Clone URL: https://github.com/snap-stanford/ogb
+==================================================
+Repository: xla
+Clone URL: https://github.com/openxla/xla
+==================================================
+Repository: torchmetrics
+Clone URL: https://github.com/Lightning-AI/torchmetrics
+==================================================
+Repository: DirectML
+Clone URL: https://github.com/microsoft/DirectML
+==================================================
+Repository: sod
+Clone URL: https://github.com/symisc/sod
+==================================================
+Repository: petastorm
+Clone URL: https://github.com/uber/petastorm
+==================================================
+Repository: fairlearn
+Clone URL: https://github.com/fairlearn/fairlearn
+==================================================
+Repository: MLJ.jl
+Clone URL: https://github.com/alan-turing-institute/MLJ.jl
+==================================================
+Repository: keepsake
+Clone URL: https://github.com/replicate/keepsake
+==================================================
+Repository: machine-learning-engineering-for-production-public
+Clone URL: https://github.com/https-deeplearning-ai/machine-learning-engineering-for-production-public
+==================================================
+Repository: mlr
+Clone URL: https://github.com/mlr-org/mlr
+==================================================
+Repository: Metrics
+Clone URL: https://github.com/benhamner/Metrics
+==================================================
+Repository: evaluate
+Clone URL: https://github.com/huggingface/evaluate
+==================================================
+Repository: audiomentations
+Clone URL: https://github.com/iver56/audiomentations
+==================================================
+Repository: ml4a
+Clone URL: https://github.com/ml4a/ml4a
+==================================================
+Repository: GeneticAlgorithmPython
+Clone URL: https://github.com/ahmedfgad/GeneticAlgorithmPython
+==================================================
+Repository: fklearn
+Clone URL: https://github.com/nubank/fklearn
+==================================================
+Repository: spark-py-notebooks
+Clone URL: https://github.com/jadianes/spark-py-notebooks
+==================================================
+Repository: OpenNMT-tf
+Clone URL: https://github.com/OpenNMT/OpenNMT-tf
+==================================================
+Repository: fhe-toolkit-linux
+Clone URL: https://github.com/IBM/fhe-toolkit-linux
+==================================================
+Repository: CrypTen
+Clone URL: https://github.com/facebookresearch/CrypTen
+==================================================
+Repository: azureml-examples
+Clone URL: https://github.com/Azure/azureml-examples
+==================================================
+Repository: torchdrug
+Clone URL: https://github.com/DeepGraphLearning/torchdrug
+==================================================
+Repository: jetson-containers
+Clone URL: https://github.com/dusty-nv/jetson-containers
+==================================================
+Repository: tribuo
+Clone URL: https://github.com/oracle/tribuo
+==================================================
+Repository: DiCE
+Clone URL: https://github.com/interpretml/DiCE
+==================================================
+Repository: StockPricePrediction
+Clone URL: https://github.com/scorpionhiccup/StockPricePrediction
+==================================================

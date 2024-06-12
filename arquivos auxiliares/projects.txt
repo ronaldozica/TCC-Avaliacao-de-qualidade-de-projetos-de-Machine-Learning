@@ -1,0 +1,2396 @@
+Repository: tensorflow
+Clone URL: https://github.com/tensorflow/tensorflow
+No keywords found in README
+==================================================
+Repository: scikit-learn
+Clone URL: https://github.com/scikit-learn/scikit-learn
+No keywords found in README
+==================================================
+Repository: handson-ml2
+Clone URL: https://github.com/ageron/handson-ml2
+No keywords found in README
+==================================================
+Repository: ML-From-Scratch
+Clone URL: https://github.com/eriklindernoren/ML-From-Scratch
+No keywords found in README
+==================================================
+Repository: Paddle
+Clone URL: https://github.com/PaddlePaddle/Paddle
+No keywords found in README
+==================================================
+Repository: onnx
+Clone URL: https://github.com/onnx/onnx
+No keywords found in README
+==================================================
+Repository: mlflow
+Clone URL: https://github.com/mlflow/mlflow
+No keywords found in README
+==================================================
+Repository: LightGBM
+Clone URL: https://github.com/microsoft/LightGBM
+No keywords found in README
+==================================================
+Repository: brpc
+Clone URL: https://github.com/apache/brpc
+No keywords found in README
+==================================================
+Repository: Qix
+Clone URL: https://github.com/ty4z2008/Qix
+No keywords found in README
+==================================================
+Repository: numpy-ml
+Clone URL: https://github.com/ddbourgin/numpy-ml
+No keywords found in README
+==================================================
+Repository: imgaug
+Clone URL: https://github.com/aleju/imgaug
+No keywords found in README
+==================================================
+Repository: ChatterBot
+Clone URL: https://github.com/gunthercox/ChatterBot
+No keywords found in README
+==================================================
+Repository: kubeflow
+Clone URL: https://github.com/kubeflow/kubeflow
+No keywords found in README
+==================================================
+Repository: dlib
+Clone URL: https://github.com/davisking/dlib
+No keywords found in README
+==================================================
+Repository: turicreate
+Clone URL: https://github.com/apple/turicreate
+No keywords found in README
+==================================================
+Repository: lime
+Clone URL: https://github.com/marcotcr/lime
+No keywords found in README
+==================================================
+Repository: MLAlgorithms
+Clone URL: https://github.com/rushter/MLAlgorithms
+No keywords found in README
+==================================================
+Repository: golearn
+Clone URL: https://github.com/sjwhitworth/golearn
+No keywords found in README
+==================================================
+Repository: machinelearning
+Clone URL: https://github.com/dotnet/machinelearning
+No keywords found in README
+==================================================
+Repository: pattern
+Clone URL: https://github.com/clips/pattern
+No keywords found in README
+==================================================
+Repository: vowpal_wabbit
+Clone URL: https://github.com/VowpalWabbit/vowpal_wabbit
+No keywords found in README
+==================================================
+Repository: machine-learning-systems-design
+Clone URL: https://github.com/chiphuyen/machine-learning-systems-design
+No keywords found in README
+==================================================
+Repository: cortex
+Clone URL: https://github.com/cortexlabs/cortex
+No keywords found in README
+==================================================
+Repository: ggml
+Clone URL: https://github.com/ggerganov/ggml
+No keywords found in README
+==================================================
+Repository: machine-learning-zoomcamp
+Clone URL: https://github.com/DataTalksClub/machine-learning-zoomcamp
+No keywords found in README
+==================================================
+Repository: catboost
+Clone URL: https://github.com/catboost/catboost
+No keywords found in README
+==================================================
+Repository: auto-sklearn
+Clone URL: https://github.com/automl/auto-sklearn
+No keywords found in README
+==================================================
+Repository: sktime
+Clone URL: https://github.com/sktime/sktime
+No keywords found in README
+==================================================
+Repository: introduction_to_ml_with_python
+Clone URL: https://github.com/amueller/introduction_to_ml_with_python
+No keywords found in README
+==================================================
+Repository: imbalanced-learn
+Clone URL: https://github.com/scikit-learn-contrib/imbalanced-learn
+No keywords found in README
+==================================================
+Repository: h2o-3
+Clone URL: https://github.com/h2oai/h2o-3
+No keywords found in README
+==================================================
+Repository: alluxio
+Clone URL: https://github.com/Alluxio/alluxio
+No keywords found in README
+==================================================
+Repository: tensorflow_cookbook
+Clone URL: https://github.com/nfmcclure/tensorflow_cookbook
+No keywords found in README
+==================================================
+Repository: MachineLearning_Python
+Clone URL: https://github.com/lawlite19/MachineLearning_Python
+No keywords found in README
+==================================================
+Repository: pyprobml
+Clone URL: https://github.com/probml/pyprobml
+No keywords found in README
+==================================================
+Repository: Machine-Learning-Collection
+Clone URL: https://github.com/aladdinpersson/Machine-Learning-Collection
+No keywords found in README
+==================================================
+Repository: cog
+Clone URL: https://github.com/replicate/cog
+No keywords found in README
+==================================================
+Repository: ML-Course-Notes
+Clone URL: https://github.com/dair-ai/ML-Course-Notes
+No keywords found in README
+==================================================
+Repository: Data-Analysis-and-Machine-Learning-Projects
+Clone URL: https://github.com/rhiever/Data-Analysis-and-Machine-Learning-Projects
+No keywords found in README
+==================================================
+Repository: approachingalmost
+Clone URL: https://github.com/abhishekkrthakur/approachingalmost
+No keywords found in README
+==================================================
+Repository: gorgonia
+Clone URL: https://github.com/gorgonia/gorgonia
+No keywords found in README
+==================================================
+Repository: flashlight
+Clone URL: https://github.com/flashlight/flashlight
+No keywords found in README
+==================================================
+Repository: Data-Science-Wiki
+Clone URL: https://github.com/Leo-G/Data-Science-Wiki
+No keywords found in README
+==================================================
+Repository: Lhy_Machine_Learning
+Clone URL: https://github.com/Fafa-DL/Lhy_Machine_Learning
+No keywords found in README
+==================================================
+Repository: feast
+Clone URL: https://github.com/feast-dev/feast
+No keywords found in README
+==================================================
+Repository: InterpretableMLBook
+Clone URL: https://github.com/MingchaoZhu/InterpretableMLBook
+No keywords found in README
+==================================================
+Repository: mlpack
+Clone URL: https://github.com/mlpack/mlpack
+No keywords found in README
+==================================================
+Repository: interpretable-ml-book
+Clone URL: https://github.com/christophM/interpretable-ml-book
+No keywords found in README
+==================================================
+Repository: mlxtend
+Clone URL: https://github.com/rasbt/mlxtend
+No keywords found in README
+==================================================
+Repository: handson-ml3
+Clone URL: https://github.com/ageron/handson-ml3
+No keywords found in README
+==================================================
+Repository: river
+Clone URL: https://github.com/online-ml/river
+No keywords found in README
+==================================================
+Repository: TensorFlow-Book
+Clone URL: https://github.com/BinRoot/TensorFlow-Book
+No keywords found in README
+==================================================
+Repository: Data-Science-Cheatsheet
+Clone URL: https://github.com/aaronwangy/Data-Science-Cheatsheet
+No keywords found in README
+==================================================
+Repository: causalml
+Clone URL: https://github.com/uber/causalml
+No keywords found in README
+==================================================
+Repository: pml-book
+Clone URL: https://github.com/probml/pml-book
+No keywords found in README
+==================================================
+Repository: machinelearning-samples
+Clone URL: https://github.com/dotnet/machinelearning-samples
+No keywords found in README
+==================================================
+Repository: python-machine-learning-book-3rd-edition
+Clone URL: https://github.com/rasbt/python-machine-learning-book-3rd-edition
+No keywords found in README
+==================================================
+Repository: adversarial-robustness-toolbox
+Clone URL: https://github.com/Trusted-AI/adversarial-robustness-toolbox
+No keywords found in README
+==================================================
+Repository: yellowbrick
+Clone URL: https://github.com/DistrictDataLabs/yellowbrick
+No keywords found in README
+==================================================
+Repository: Machine-Learning-with-Python
+Clone URL: https://github.com/susanli2016/Machine-Learning-with-Python
+No keywords found in README
+==================================================
+Repository: tsai
+Clone URL: https://github.com/timeseriesAI/tsai
+No keywords found in README
+==================================================
+Repository: pattern_classification
+Clone URL: https://github.com/rasbt/pattern_classification
+No keywords found in README
+==================================================
+Repository: seldon-core
+Clone URL: https://github.com/SeldonIO/seldon-core
+No keywords found in README
+==================================================
+Repository: Mathematics-for-ML
+Clone URL: https://github.com/dair-ai/Mathematics-for-ML
+No keywords found in README
+==================================================
+Repository: cml
+Clone URL: https://github.com/iterative/cml
+No keywords found in README
+==================================================
+Repository: MachineLearningNotebooks
+Clone URL: https://github.com/Azure/MachineLearningNotebooks
+No keywords found in README
+==================================================
+Repository: mlfinlab
+Clone URL: https://github.com/hudson-and-thames/mlfinlab
+No keywords found in README
+==================================================
+Repository: Alink
+Clone URL: https://github.com/alibaba/Alink
+No keywords found in README
+==================================================
+Repository: tensorwatch
+Clone URL: https://github.com/microsoft/tensorwatch
+No keywords found in README
+==================================================
+Repository: pipelines
+Clone URL: https://github.com/kubeflow/pipelines
+No keywords found in README
+==================================================
+Repository: EconML
+Clone URL: https://github.com/py-why/EconML
+No keywords found in README
+==================================================
+Repository: openmlsys-zh
+Clone URL: https://github.com/openmlsys/openmlsys-zh
+No keywords found in README
+==================================================
+Repository: data-science-on-aws
+Clone URL: https://github.com/data-science-on-aws/data-science-on-aws
+No keywords found in README
+==================================================
+Repository: ml-workspace
+Clone URL: https://github.com/ml-tooling/ml-workspace
+No keywords found in README
+==================================================
+Repository: ML-Notebooks
+Clone URL: https://github.com/dair-ai/ML-Notebooks
+No keywords found in README
+==================================================
+Repository: higgsfield
+Clone URL: https://github.com/higgsfield-ai/higgsfield
+No keywords found in README
+==================================================
+Repository: Merlion
+Clone URL: https://github.com/salesforce/Merlion
+No keywords found in README
+==================================================
+Repository: xlearn
+Clone URL: https://github.com/aksnzhy/xlearn
+No keywords found in README
+==================================================
+Repository: linfa
+Clone URL: https://github.com/rust-ml/linfa
+No keywords found in README
+==================================================
+Repository: 2022-Machine-Learning-Specialization
+Clone URL: https://github.com/kaieye/2022-Machine-Learning-Specialization
+No keywords found in README
+==================================================
+Repository: tensorflow-without-a-phd
+Clone URL: https://github.com/GoogleCloudPlatform/tensorflow-without-a-phd
+No keywords found in README
+==================================================
+Repository: DifferentialEquations.jl
+Clone URL: https://github.com/SciML/DifferentialEquations.jl
+No keywords found in README
+==================================================
+Repository: tslearn
+Clone URL: https://github.com/tslearn-team/tslearn
+No keywords found in README
+==================================================
+Repository: machine-learning-articles
+Clone URL: https://github.com/christianversloot/machine-learning-articles
+No keywords found in README
+==================================================
+Repository: ComputeLibrary
+Clone URL: https://github.com/ARM-software/ComputeLibrary
+No keywords found in README
+==================================================
+Repository: determined
+Clone URL: https://github.com/determined-ai/determined
+No keywords found in README
+==================================================
+Repository: pipcook
+Clone URL: https://github.com/alibaba/pipcook
+No keywords found in README
+==================================================
+Repository: Machine-Learning-Interviews
+Clone URL: https://github.com/alirezadir/Machine-Learning-Interviews
+No keywords found in README
+==================================================
+Repository: machine-learning-book
+Clone URL: https://github.com/rasbt/machine-learning-book
+No keywords found in README
+==================================================
+Repository: ml-engineering
+Clone URL: https://github.com/stas00/ml-engineering
+No keywords found in README
+==================================================
+Repository: TransmogrifAI
+Clone URL: https://github.com/salesforce/TransmogrifAI
+No keywords found in README
+==================================================
+Repository: datasets
+Clone URL: https://github.com/unsplash/datasets
+No keywords found in README
+==================================================
+Repository: aws-machine-learning-university-accelerated-nlp
+Clone URL: https://github.com/aws-samples/aws-machine-learning-university-accelerated-nlp
+No keywords found in README
+==================================================
+Repository: alibi
+Clone URL: https://github.com/SeldonIO/alibi
+No keywords found in README
+==================================================
+Repository: feature-selector
+Clone URL: https://github.com/WillKoehrsen/feature-selector
+No keywords found in README
+==================================================
+Repository: Awesome-Quant-Machine-Learning-Trading
+Clone URL: https://github.com/grananqvist/Awesome-Quant-Machine-Learning-Trading
+No keywords found in README
+==================================================
+Repository: iree
+Clone URL: https://github.com/openxla/iree
+No keywords found in README
+==================================================
+Repository: MLQuestions
+Clone URL: https://github.com/andrewekhalel/MLQuestions
+No keywords found in README
+==================================================
+Repository: Papers-Literature-ML-DL-RL-AI
+Clone URL: https://github.com/tirthajyoti/Papers-Literature-ML-DL-RL-AI
+No keywords found in README
+==================================================
+Repository: sagemaker-python-sdk
+Clone URL: https://github.com/aws/sagemaker-python-sdk
+No keywords found in README
+==================================================
+Repository: ManimML
+Clone URL: https://github.com/helblazer811/ManimML
+No keywords found in README
+==================================================
+Repository: ML
+Clone URL: https://github.com/RubixML/ML
+No keywords found in README
+==================================================
+Repository: magenta-js
+Clone URL: https://github.com/magenta/magenta-js
+No keywords found in README
+==================================================
+Repository: Simd
+Clone URL: https://github.com/ermig1979/Simd
+No keywords found in README
+==================================================
+Repository: AI-Blocks
+Clone URL: https://github.com/MrNothing/AI-Blocks
+No keywords found in README
+==================================================
+Repository: secretflow
+Clone URL: https://github.com/secretflow/secretflow
+No keywords found in README
+==================================================
+Repository: ml-course
+Clone URL: https://github.com/girafe-ai/ml-course
+No keywords found in README
+==================================================
+Repository: ogb
+Clone URL: https://github.com/snap-stanford/ogb
+No keywords found in README
+==================================================
+Repository: ml-pen-and-paper-exercises
+Clone URL: https://github.com/michaelgutmann/ml-pen-and-paper-exercises
+No keywords found in README
+==================================================
+Repository: TensorComprehensions
+Clone URL: https://github.com/facebookresearch/TensorComprehensions
+No keywords found in README
+==================================================
+Repository: xla
+Clone URL: https://github.com/openxla/xla
+No keywords found in README
+==================================================
+Repository: torchmetrics
+Clone URL: https://github.com/Lightning-AI/torchmetrics
+No keywords found in README
+==================================================
+Repository: SciMLBook
+Clone URL: https://github.com/SciML/SciMLBook
+No keywords found in README
+==================================================
+Repository: DirectML
+Clone URL: https://github.com/microsoft/DirectML
+No keywords found in README
+==================================================
+Repository: sod
+Clone URL: https://github.com/symisc/sod
+No keywords found in README
+==================================================
+Repository: petastorm
+Clone URL: https://github.com/uber/petastorm
+No keywords found in README
+==================================================
+Repository: fairlearn
+Clone URL: https://github.com/fairlearn/fairlearn
+No keywords found in README
+==================================================
+Repository: MLJ.jl
+Clone URL: https://github.com/alan-turing-institute/MLJ.jl
+No keywords found in README
+==================================================
+Repository: ml-basics
+Clone URL: https://github.com/MicrosoftDocs/ml-basics
+No keywords found in README
+==================================================
+Repository: spago
+Clone URL: https://github.com/nlpodyssey/spago
+No keywords found in README
+==================================================
+Repository: keepsake
+Clone URL: https://github.com/replicate/keepsake
+No keywords found in README
+==================================================
+Repository: machine-learning-engineering-for-production-public
+Clone URL: https://github.com/https-deeplearning-ai/machine-learning-engineering-for-production-public
+No keywords found in README
+==================================================
+Repository: mlr
+Clone URL: https://github.com/mlr-org/mlr
+No keywords found in README
+==================================================
+Repository: Metrics
+Clone URL: https://github.com/benhamner/Metrics
+No keywords found in README
+==================================================
+Repository: evaluate
+Clone URL: https://github.com/huggingface/evaluate
+No keywords found in README
+==================================================
+Repository: spark-py-notebooks
+Clone URL: https://github.com/jadianes/spark-py-notebooks
+No keywords found in README
+==================================================
+Repository: audiomentations
+Clone URL: https://github.com/iver56/audiomentations
+No keywords found in README
+==================================================
+Repository: ml4a
+Clone URL: https://github.com/ml4a/ml4a
+No keywords found in README
+==================================================
+Repository: lore
+Clone URL: https://github.com/instacart/lore
+No keywords found in README
+==================================================
+Repository: WZU-machine-learning-course
+Clone URL: https://github.com/fengdu78/WZU-machine-learning-course
+No keywords found in README
+==================================================
+Repository: GeneticAlgorithmPython
+Clone URL: https://github.com/ahmedfgad/GeneticAlgorithmPython
+No keywords found in README
+==================================================
+Repository: china-dictatorship
+Clone URL: https://github.com/cirosantilli/china-dictatorship
+No keywords found in README
+==================================================
+Repository: aws-machine-learning-university-accelerated-cv
+Clone URL: https://github.com/aws-samples/aws-machine-learning-university-accelerated-cv
+No keywords found in README
+==================================================
+Repository: fklearn
+Clone URL: https://github.com/nubank/fklearn
+No keywords found in README
+==================================================
+Repository: Machine_Learning_Code_Implementation
+Clone URL: https://github.com/luwill/Machine_Learning_Code_Implementation
+No keywords found in README
+==================================================
+Repository: MLBox
+Clone URL: https://github.com/AxeldeRomblay/MLBox
+No keywords found in README
+==================================================
+Repository: MachineLearningNotes
+Clone URL: https://github.com/tsyw/MachineLearningNotes
+No keywords found in README
+==================================================
+Repository: dmls-book
+Clone URL: https://github.com/chiphuyen/dmls-book
+No keywords found in README
+==================================================
+Repository: OpenNMT-tf
+Clone URL: https://github.com/OpenNMT/OpenNMT-tf
+No keywords found in README
+==================================================
+Repository: fhe-toolkit-linux
+Clone URL: https://github.com/IBM/fhe-toolkit-linux
+No keywords found in README
+==================================================
+Repository: CrypTen
+Clone URL: https://github.com/facebookresearch/CrypTen
+No keywords found in README
+==================================================
+Repository: Book7_Visualizations-for-Machine-Learning
+Clone URL: https://github.com/Visualize-ML/Book7_Visualizations-for-Machine-Learning
+No keywords found in README
+==================================================
+Repository: azureml-examples
+Clone URL: https://github.com/Azure/azureml-examples
+No keywords found in README
+==================================================
+Repository: pybroker
+Clone URL: https://github.com/edtechre/pybroker
+No keywords found in README
+==================================================
+Repository: machine-learning-yearning
+Clone URL: https://github.com/xiaqunfeng/machine-learning-yearning
+No keywords found in README
+==================================================
+Repository: torchdrug
+Clone URL: https://github.com/DeepGraphLearning/torchdrug
+No keywords found in README
+==================================================
+Repository: pml2-book
+Clone URL: https://github.com/probml/pml2-book
+No keywords found in README
+==================================================
+Repository: ModelingToolkit.jl
+Clone URL: https://github.com/SciML/ModelingToolkit.jl
+No keywords found in README
+==================================================
+Repository: awesome-ml4co
+Clone URL: https://github.com/Thinklab-SJTU/awesome-ml4co
+No keywords found in README
+==================================================
+Repository: awesome-machine-learning-in-compilers
+Clone URL: https://github.com/zwang4/awesome-machine-learning-in-compilers
+No keywords found in README
+==================================================
+Repository: jetson-containers
+Clone URL: https://github.com/dusty-nv/jetson-containers
+No keywords found in README
+==================================================
+Repository: tribuo
+Clone URL: https://github.com/oracle/tribuo
+No keywords found in README
+==================================================
+Repository: Hands-On-Machine-Learning-for-Algorithmic-Trading
+Clone URL: https://github.com/PacktPublishing/Hands-On-Machine-Learning-for-Algorithmic-Trading
+No keywords found in README
+==================================================
+Repository: DiCE
+Clone URL: https://github.com/interpretml/DiCE
+No keywords found in README
+==================================================
+Repository: Machine-Learning
+Clone URL: https://github.com/shunliz/Machine-Learning
+No keywords found in README
+==================================================
+Repository: StockPricePrediction
+Clone URL: https://github.com/scorpionhiccup/StockPricePrediction
+No keywords found in README
+==================================================
+Repository: Machine-Learning-with-Python
+Clone URL: https://github.com/devAmoghS/Machine-Learning-with-Python
+No keywords found in README
+==================================================
+Repository: transdim
+Clone URL: https://github.com/xinychen/transdim
+No keywords found in README
+==================================================
+Repository: nilearn
+Clone URL: https://github.com/nilearn/nilearn
+No keywords found in README
+==================================================
+Repository: Machine-Learning-in-90-days
+Clone URL: https://github.com/krishnaik06/Machine-Learning-in-90-days
+No keywords found in README
+==================================================
+Repository: eo-learn
+Clone URL: https://github.com/sentinel-hub/eo-learn
+No keywords found in README
+==================================================
+Repository: MachineLearning
+Clone URL: https://github.com/carefree0910/MachineLearning
+No keywords found in README
+==================================================
+Repository: mlbook
+Clone URL: https://github.com/dafriedman97/mlbook
+No keywords found in README
+==================================================
+Repository: rapping-neural-network
+Clone URL: https://github.com/robbiebarrat/rapping-neural-network
+No keywords found in README
+==================================================
+Repository: AutoGL
+Clone URL: https://github.com/THUMNLab/AutoGL
+No keywords found in README
+==================================================
+Repository: Machine_Learning_Resources
+Clone URL: https://github.com/wangyuGithub01/Machine_Learning_Resources
+No keywords found in README
+==================================================
+Repository: Datasets
+Clone URL: https://github.com/jbrownlee/Datasets
+No keywords found in README
+==================================================
+Repository: aws-machine-learning-university-accelerated-tab
+Clone URL: https://github.com/aws-samples/aws-machine-learning-university-accelerated-tab
+No keywords found in README
+==================================================
+Repository: AlphaPy
+Clone URL: https://github.com/ScottfreeLLC/AlphaPy
+No keywords found in README
+==================================================
+Repository: astroML
+Clone URL: https://github.com/astroML/astroML
+No keywords found in README
+==================================================
+Repository: hls4ml
+Clone URL: https://github.com/fastmachinelearning/hls4ml
+No keywords found in README
+==================================================
+Repository: Mallet
+Clone URL: https://github.com/mimno/Mallet
+No keywords found in README
+==================================================
+Repository: veles
+Clone URL: https://github.com/Samsung/veles
+No keywords found in README
+==================================================
+Repository: machine-learning
+Clone URL: https://github.com/patchy631/machine-learning
+No keywords found in README
+==================================================
+Repository: Category_Theory_Machine_Learning
+Clone URL: https://github.com/bgavran/Category_Theory_Machine_Learning
+No keywords found in README
+==================================================
+Repository: fedlearner
+Clone URL: https://github.com/bytedance/fedlearner
+No keywords found in README
+==================================================
+Repository: dask-ml
+Clone URL: https://github.com/dask/dask-ml
+No keywords found in README
+==================================================
+Repository: ciml
+Clone URL: https://github.com/hal3/ciml
+No keywords found in README
+==================================================
+Repository: dmlc-core
+Clone URL: https://github.com/dmlc/dmlc-core
+No keywords found in README
+==================================================
+Repository: skrub
+Clone URL: https://github.com/skrub-data/skrub
+No keywords found in README
+==================================================
+Repository: resources
+Clone URL: https://github.com/gopherdata/resources
+No keywords found in README
+==================================================
+Repository: NeuralPDE.jl
+Clone URL: https://github.com/SciML/NeuralPDE.jl
+No keywords found in README
+==================================================
+Repository: dbt-fal
+Clone URL: https://github.com/fal-ai/dbt-fal
+No keywords found in README
+==================================================
+Repository: NBA-Machine-Learning-Sports-Betting
+Clone URL: https://github.com/kyleskom/NBA-Machine-Learning-Sports-Betting
+No keywords found in README
+==================================================
+Repository: tensorflow
+Clone URL: https://github.com/NVIDIA/tensorflow
+No keywords found in README
+==================================================
+Repository: home
+Clone URL: https://github.com/gege-circle/home
+No keywords found in README
+==================================================
+Repository: pmlb
+Clone URL: https://github.com/EpistasisLab/pmlb
+No keywords found in README
+==================================================
+Repository: giotto-tda
+Clone URL: https://github.com/giotto-ai/giotto-tda
+No keywords found in README
+==================================================
+Repository: lhotse
+Clone URL: https://github.com/lhotse-speech/lhotse
+No keywords found in README
+==================================================
+Repository: xmanager
+Clone URL: https://github.com/google-deepmind/xmanager
+No keywords found in README
+==================================================
+Repository: neoml
+Clone URL: https://github.com/neoml-lib/neoml
+No keywords found in README
+==================================================
+Repository: data-validation
+Clone URL: https://github.com/tensorflow/data-validation
+No keywords found in README
+==================================================
+Repository: python-ml-course
+Clone URL: https://github.com/joanby/python-ml-course
+No keywords found in README
+==================================================
+Repository: Practical-Machine-Learning
+Clone URL: https://github.com/youssefHosni/Practical-Machine-Learning
+No keywords found in README
+==================================================
+Repository: mimic3-benchmarks
+Clone URL: https://github.com/YerevaNN/mimic3-benchmarks
+No keywords found in README
+==================================================
+Repository: ML2021-Spring
+Clone URL: https://github.com/ga642381/ML2021-Spring
+No keywords found in README
+==================================================
+Repository: ML-University
+Clone URL: https://github.com/d0r1h/ML-University
+No keywords found in README
+==================================================
+Repository: scikit-multiflow
+Clone URL: https://github.com/scikit-multiflow/scikit-multiflow
+No keywords found in README
+==================================================
+Repository: retentioneering-tools
+Clone URL: https://github.com/retentioneering/retentioneering-tools
+No keywords found in README
+==================================================
+Repository: rumale
+Clone URL: https://github.com/yoshoku/rumale
+No keywords found in README
+==================================================
+Repository: project-walkthroughs
+Clone URL: https://github.com/dataquestio/project-walkthroughs
+No keywords found in README
+==================================================
+Repository: machine-learning-notes
+Clone URL: https://github.com/rasbt/machine-learning-notes
+No keywords found in README
+==================================================
+Repository: finance_ml
+Clone URL: https://github.com/jjakimoto/finance_ml
+No keywords found in README
+==================================================
+Repository: SciMLTutorials.jl
+Clone URL: https://github.com/SciML/SciMLTutorials.jl
+No keywords found in README
+==================================================
+Repository: deploying-machine-learning-models
+Clone URL: https://github.com/trainindata/deploying-machine-learning-models
+No keywords found in README
+==================================================
+Repository: machine-learning-deep-learning-notes
+Clone URL: https://github.com/loveunk/machine-learning-deep-learning-notes
+No keywords found in README
+==================================================
+Repository: rep
+Clone URL: https://github.com/yandex/rep
+No keywords found in README
+==================================================
+Repository: submarine
+Clone URL: https://github.com/apache/submarine
+No keywords found in README
+==================================================
+Repository: cesium
+Clone URL: https://github.com/cesium-ml/cesium
+No keywords found in README
+==================================================
+Repository: mldb
+Clone URL: https://github.com/mldbai/mldb
+No keywords found in README
+==================================================
+Repository: eps
+Clone URL: https://github.com/ankane/eps
+No keywords found in README
+==================================================
+Repository: machine_learning_with_python_jadi
+Clone URL: https://github.com/jadijadi/machine_learning_with_python_jadi
+No keywords found in README
+==================================================
+Repository: stringsifter
+Clone URL: https://github.com/mandiant/stringsifter
+No keywords found in README
+==================================================
+Repository: dipy
+Clone URL: https://github.com/dipy/dipy
+No keywords found in README
+==================================================
+Repository: functime
+Clone URL: https://github.com/TracecatHQ/functime
+No keywords found in README
+==================================================
+Repository: master
+Clone URL: https://github.com/ML-course/master
+No keywords found in README
+==================================================
+Repository: aeon
+Clone URL: https://github.com/aeon-toolkit/aeon
+No keywords found in README
+==================================================
+Repository: machine-learning
+Clone URL: https://github.com/BindiChen/machine-learning
+No keywords found in README
+==================================================
+Repository: intelligent-trading-bot
+Clone URL: https://github.com/asavinov/intelligent-trading-bot
+No keywords found in README
+==================================================
+Repository: CodeGen
+Clone URL: https://github.com/facebookresearch/CodeGen
+No keywords found in README
+==================================================
+Repository: my_ml_service
+Clone URL: https://github.com/pplonski/my_ml_service
+No keywords found in README
+==================================================
+Repository: TradingView-Machine-Learning-GUI
+Clone URL: https://github.com/TreborNamor/TradingView-Machine-Learning-GUI
+No keywords found in README
+==================================================
+Repository: Numpy.NET
+Clone URL: https://github.com/SciSharp/Numpy.NET
+No keywords found in README
+==================================================
+Repository: Hands-on-Machine-Learning-with-Scikit-Learn-Keras-and-TensorFlow
+Clone URL: https://github.com/Akramz/Hands-on-Machine-Learning-with-Scikit-Learn-Keras-and-TensorFlow
+No keywords found in README
+==================================================
+Repository: ML-Roadmap-for-2022
+Clone URL: https://github.com/campusx-official/ML-Roadmap-for-2022
+No keywords found in README
+==================================================
+Repository: hyperparameter-optimization
+Clone URL: https://github.com/WillKoehrsen/hyperparameter-optimization
+No keywords found in README
+==================================================
+Repository: smartcore
+Clone URL: https://github.com/smartcorelib/smartcore
+No keywords found in README
+==================================================
+Repository: covalent
+Clone URL: https://github.com/AgnostiqHQ/covalent
+No keywords found in README
+==================================================
+Repository: mlforecast
+Clone URL: https://github.com/Nixtla/mlforecast
+No keywords found in README
+==================================================
+Repository: awesome
+Clone URL: https://github.com/shenwei356/awesome
+No keywords found in README
+==================================================
+Repository: Machine-Learning-Projects
+Clone URL: https://github.com/WillKoehrsen/Machine-Learning-Projects
+No keywords found in README
+==================================================
+Repository: Generative_Deep_Learning_2nd_Edition
+Clone URL: https://github.com/davidADSP/Generative_Deep_Learning_2nd_Edition
+No keywords found in README
+==================================================
+Repository: FEDOT
+Clone URL: https://github.com/aimclub/FEDOT
+No keywords found in README
+==================================================
+Repository: Machine-Learning-Projects
+Clone URL: https://github.com/aswintechguy/Machine-Learning-Projects
+No keywords found in README
+==================================================
+Repository: moa
+Clone URL: https://github.com/Waikato/moa
+No keywords found in README
+==================================================
+Repository: TensorFlow-Machine-Learning-Cookbook
+Clone URL: https://github.com/PacktPublishing/TensorFlow-Machine-Learning-Cookbook
+No keywords found in README
+==================================================
+Repository: datasets
+Clone URL: https://github.com/benedekrozemberczki/datasets
+No keywords found in README
+==================================================
+Repository: AAAMLP-CN
+Clone URL: https://github.com/ytzfhqs/AAAMLP-CN
+No keywords found in README
+==================================================
+Repository: NapkinML
+Clone URL: https://github.com/eriklindernoren/NapkinML
+No keywords found in README
+==================================================
+Repository: verde
+Clone URL: https://github.com/fatiando/verde
+No keywords found in README
+==================================================
+Repository: skll
+Clone URL: https://github.com/EducationalTestingService/skll
+No keywords found in README
+==================================================
+Repository: pyRiemann
+Clone URL: https://github.com/pyRiemann/pyRiemann
+No keywords found in README
+==================================================
+Repository: StratosphereLinuxIPS
+Clone URL: https://github.com/stratosphereips/StratosphereLinuxIPS
+No keywords found in README
+==================================================
+Repository: PDEBench
+Clone URL: https://github.com/pdebench/PDEBench
+No keywords found in README
+==================================================
+Repository: InnerEye-DeepLearning
+Clone URL: https://github.com/microsoft/InnerEye-DeepLearning
+No keywords found in README
+==================================================
+Repository: qiskit-machine-learning
+Clone URL: https://github.com/qiskit-community/qiskit-machine-learning
+No keywords found in README
+==================================================
+Repository: machine-learning-and-simulation
+Clone URL: https://github.com/Ceyron/machine-learning-and-simulation
+No keywords found in README
+==================================================
+Repository: tensor2robot
+Clone URL: https://github.com/google-research/tensor2robot
+No keywords found in README
+==================================================
+Repository: GEKKO
+Clone URL: https://github.com/BYU-PRISM/GEKKO
+No keywords found in README
+==================================================
+Repository: ml_privacy_meter
+Clone URL: https://github.com/privacytrustlab/ml_privacy_meter
+No keywords found in README
+==================================================
+Repository: 99-ML-Learning-Projects
+Clone URL: https://github.com/gimseng/99-ML-Learning-Projects
+No keywords found in README
+==================================================
+Repository: cherry
+Clone URL: https://github.com/Windsooon/cherry
+No keywords found in README
+==================================================
+Repository: holoclean
+Clone URL: https://github.com/HoloClean/holoclean
+No keywords found in README
+==================================================
+Repository: PyPOTS
+Clone URL: https://github.com/WenjieDu/PyPOTS
+No keywords found in README
+==================================================
+Repository: MLServer
+Clone URL: https://github.com/SeldonIO/MLServer
+No keywords found in README
+==================================================
+Repository: iml
+Clone URL: https://github.com/christophM/iml
+No keywords found in README
+==================================================
+Repository: videocr
+Clone URL: https://github.com/apm1467/videocr
+No keywords found in README
+==================================================
+Repository: learning-machine
+Clone URL: https://github.com/rentruewang/learning-machine
+No keywords found in README
+==================================================
+Repository: apricot
+Clone URL: https://github.com/jmschrei/apricot
+No keywords found in README
+==================================================
+Repository: modeltime
+Clone URL: https://github.com/business-science/modeltime
+No keywords found in README
+==================================================
+Repository: Causal_Reading_Group
+Clone URL: https://github.com/fulifeng/Causal_Reading_Group
+No keywords found in README
+==================================================
+Repository: Python-Machine-Learning-Second-Edition
+Clone URL: https://github.com/PacktPublishing/Python-Machine-Learning-Second-Edition
+No keywords found in README
+==================================================
+Repository: ml-design-docs
+Clone URL: https://github.com/eugeneyan/ml-design-docs
+No keywords found in README
+==================================================
+Repository: bugbug
+Clone URL: https://github.com/mozilla/bugbug
+No keywords found in README
+==================================================
+Repository: featran
+Clone URL: https://github.com/spotify/featran
+No keywords found in README
+==================================================
+Repository: m1-machine-learning-test
+Clone URL: https://github.com/mrdbourke/m1-machine-learning-test
+No keywords found in README
+==================================================
+Repository: OrdinaryDiffEq.jl
+Clone URL: https://github.com/SciML/OrdinaryDiffEq.jl
+No keywords found in README
+==================================================
+Repository: federated-learning-lib
+Clone URL: https://github.com/IBM/federated-learning-lib
+No keywords found in README
+==================================================
+Repository: Deep_and_Machine_Learning_Projects
+Clone URL: https://github.com/nitinkaushik01/Deep_and_Machine_Learning_Projects
+No keywords found in README
+==================================================
+Repository: label-maker
+Clone URL: https://github.com/developmentseed/label-maker
+No keywords found in README
+==================================================
+Repository: machine-learning-toy-code
+Clone URL: https://github.com/datawhalechina/machine-learning-toy-code
+No keywords found in README
+==================================================
+Repository: php-opencv-examples
+Clone URL: https://github.com/php-opencv/php-opencv-examples
+No keywords found in README
+==================================================
+Repository: codespaces-jupyter
+Clone URL: https://github.com/github/codespaces-jupyter
+No keywords found in README
+==================================================
+Repository: sagemaker-training-toolkit
+Clone URL: https://github.com/aws/sagemaker-training-toolkit
+No keywords found in README
+==================================================
+Repository: ares
+Clone URL: https://github.com/thu-ml/ares
+No keywords found in README
+==================================================
+Repository: awesome-ml-internships
+Clone URL: https://github.com/pratikratadiya/awesome-ml-internships
+No keywords found in README
+==================================================
+Repository: python-aiplatform
+Clone URL: https://github.com/googleapis/python-aiplatform
+No keywords found in README
+==================================================
+Repository: openappsec
+Clone URL: https://github.com/openappsec/openappsec
+No keywords found in README
+==================================================
+Repository: machine-learning
+Clone URL: https://github.com/jbagnato/machine-learning
+No keywords found in README
+==================================================
+Repository: sklearn-evaluation
+Clone URL: https://github.com/ploomber/sklearn-evaluation
+No keywords found in README
+==================================================
+Repository: Machine-Learning-Projects
+Clone URL: https://github.com/anujvyas/Machine-Learning-Projects
+No keywords found in README
+==================================================
+Repository: Python-Machine-Learning-Cookbook
+Clone URL: https://github.com/PacktPublishing/Python-Machine-Learning-Cookbook
+No keywords found in README
+==================================================
+Repository: themlsbook
+Clone URL: https://github.com/5x12/themlsbook
+No keywords found in README
+==================================================
+Repository: TransformerSum
+Clone URL: https://github.com/HHousen/TransformerSum
+No keywords found in README
+==================================================
+Repository: data-science-learning
+Clone URL: https://github.com/5agado/data-science-learning
+No keywords found in README
+==================================================
+Repository: chatbot
+Clone URL: https://github.com/kevwan/chatbot
+No keywords found in README
+==================================================
+Repository: poseidon
+Clone URL: https://github.com/faucetsdn/poseidon
+No keywords found in README
+==================================================
+Repository: zmeventnotification
+Clone URL: https://github.com/ZoneMinder/zmeventnotification
+No keywords found in README
+==================================================
+Repository: post-tuto-deployment
+Clone URL: https://github.com/MarwanDebbiche/post-tuto-deployment
+No keywords found in README
+==================================================
+Repository: scikit-rebate
+Clone URL: https://github.com/EpistasisLab/scikit-rebate
+No keywords found in README
+==================================================
+Repository: Catalyst.jl
+Clone URL: https://github.com/SciML/Catalyst.jl
+No keywords found in README
+==================================================
+Repository: interpret-text
+Clone URL: https://github.com/interpretml/interpret-text
+No keywords found in README
+==================================================
+Repository: Coursera-ML
+Clone URL: https://github.com/DragonflyStats/Coursera-ML
+No keywords found in README
+==================================================
+Repository: machine-learning-resources
+Clone URL: https://github.com/datascienceid/machine-learning-resources
+No keywords found in README
+==================================================
+Repository: are-we-learning-yet
+Clone URL: https://github.com/anowell/are-we-learning-yet
+No keywords found in README
+==================================================
+Repository: Machine-Learning-Yearning-Korean-Translation
+Clone URL: https://github.com/deep-diver/Machine-Learning-Yearning-Korean-Translation
+No keywords found in README
+==================================================
+Repository: Boostcamp-AI-Tech-Product-Serving
+Clone URL: https://github.com/zzsza/Boostcamp-AI-Tech-Product-Serving
+No keywords found in README
+==================================================
+Repository: machinelearning-az
+Clone URL: https://github.com/joanby/machinelearning-az
+No keywords found in README
+==================================================
+Repository: Automated-Resume-Screening-System
+Clone URL: https://github.com/JAIJANYANI/Automated-Resume-Screening-System
+No keywords found in README
+==================================================
+Repository: Machine-Learning-From-Scratch
+Clone URL: https://github.com/AssemblyAI-Examples/Machine-Learning-From-Scratch
+No keywords found in README
+==================================================
+Repository: aws-neuron-sdk
+Clone URL: https://github.com/aws-neuron/aws-neuron-sdk
+No keywords found in README
+==================================================
+Repository: deepkit-ml
+Clone URL: https://github.com/deepkit/deepkit-ml
+No keywords found in README
+==================================================
+Repository: tpu-mlir
+Clone URL: https://github.com/sophgo/tpu-mlir
+No keywords found in README
+==================================================
+Repository: Online-Courses-Learning
+Clone URL: https://github.com/MrinmoiHossain/Online-Courses-Learning
+No keywords found in README
+==================================================
+Repository: ml-workspace
+Clone URL: https://github.com/AdicherlaVenkataSai/ml-workspace
+No keywords found in README
+==================================================
+Repository: Python-Machine-Learning-Blueprints
+Clone URL: https://github.com/PacktPublishing/Python-Machine-Learning-Blueprints
+No keywords found in README
+==================================================
+Repository: Awesome-DynamicGraphLearning
+Clone URL: https://github.com/SpaceLearner/Awesome-DynamicGraphLearning
+No keywords found in README
+==================================================
+Repository: cookiecutter-fastapi
+Clone URL: https://github.com/arthurhenrique/cookiecutter-fastapi
+No keywords found in README
+==================================================
+Repository: machine-learning-with-js
+Clone URL: https://github.com/abhisheksoni27/machine-learning-with-js
+No keywords found in README
+==================================================
+Repository: dscribe
+Clone URL: https://github.com/SINGROUP/dscribe
+No keywords found in README
+==================================================
+Repository: robustlearn
+Clone URL: https://github.com/microsoft/robustlearn
+No keywords found in README
+==================================================
+Repository: MathematicaForPrediction
+Clone URL: https://github.com/antononcube/MathematicaForPrediction
+No keywords found in README
+==================================================
+Repository: Machine-Learning-for-Algorithmic-Trading-Bots-with-Python
+Clone URL: https://github.com/PacktPublishing/Machine-Learning-for-Algorithmic-Trading-Bots-with-Python
+No keywords found in README
+==================================================
+Repository: mantra
+Clone URL: https://github.com/RJT1990/mantra
+No keywords found in README
+==================================================
+Repository: doubleml-for-py
+Clone URL: https://github.com/DoubleML/doubleml-for-py
+No keywords found in README
+==================================================
+Repository: vs-tools-for-ai
+Clone URL: https://github.com/microsoft/vs-tools-for-ai
+No keywords found in README
+==================================================
+Repository: AutoMLPipeline.jl
+Clone URL: https://github.com/IBM/AutoMLPipeline.jl
+No keywords found in README
+==================================================
+Repository: PyRCA
+Clone URL: https://github.com/salesforce/PyRCA
+No keywords found in README
+==================================================
+Repository: 2018-MachineLearning-Lectures-ESA
+Clone URL: https://github.com/jmartinezheras/2018-MachineLearning-Lectures-ESA
+No keywords found in README
+==================================================
+Repository: aws-mlu-explain
+Clone URL: https://github.com/aws-samples/aws-mlu-explain
+No keywords found in README
+==================================================
+Repository: foml
+Clone URL: https://github.com/bloomberg/foml
+No keywords found in README
+==================================================
+Repository: Hands-On-Machine-Learning-with-CPP
+Clone URL: https://github.com/PacktPublishing/Hands-On-Machine-Learning-with-CPP
+No keywords found in README
+==================================================
+Repository: modelstore
+Clone URL: https://github.com/operatorai/modelstore
+No keywords found in README
+==================================================
+Repository: LearningX
+Clone URL: https://github.com/ankonzoid/LearningX
+No keywords found in README
+==================================================
+Repository: manning
+Clone URL: https://github.com/luisguiserrano/manning
+No keywords found in README
+==================================================
+Repository: tensor
+Clone URL: https://github.com/gorgonia/tensor
+No keywords found in README
+==================================================
+Repository: machine-learning-python
+Clone URL: https://github.com/htylab/machine-learning-python
+No keywords found in README
+==================================================
+Repository: Mastering-Machine-Learning-for-Penetration-Testing
+Clone URL: https://github.com/PacktPublishing/Mastering-Machine-Learning-for-Penetration-Testing
+No keywords found in README
+==================================================
+Repository: TopologyLayer
+Clone URL: https://github.com/bruel-gabrielsson/TopologyLayer
+No keywords found in README
+==================================================
+Repository: Math-Model-and-Machine-Learning
+Clone URL: https://github.com/QInzhengk/Math-Model-and-Machine-Learning
+No keywords found in README
+==================================================
+Repository: label-studio-ml-backend
+Clone URL: https://github.com/HumanSignal/label-studio-ml-backend
+No keywords found in README
+==================================================
+Repository: autosubsync
+Clone URL: https://github.com/oseiskar/autosubsync
+No keywords found in README
+==================================================
+Repository: unionml
+Clone URL: https://github.com/unionai-oss/unionml
+No keywords found in README
+==================================================
+Repository: emlearn
+Clone URL: https://github.com/emlearn/emlearn
+No keywords found in README
+==================================================
+Repository: DL-Notes-for-Interview
+Clone URL: https://github.com/vivienzou1/DL-Notes-for-Interview
+No keywords found in README
+==================================================
+Repository: feature-engineering-for-machine-learning
+Clone URL: https://github.com/solegalli/feature-engineering-for-machine-learning
+No keywords found in README
+==================================================
+Repository: Machine-Learning-for-Finance
+Clone URL: https://github.com/PacktPublishing/Machine-Learning-for-Finance
+No keywords found in README
+==================================================
+Repository: NoteBooks-Statistics-and-MachineLearning
+Clone URL: https://github.com/leonvanbokhorst/NoteBooks-Statistics-and-MachineLearning
+No keywords found in README
+==================================================
+Repository: ml
+Clone URL: https://github.com/cloudxlab/ml
+No keywords found in README
+==================================================
+Repository: paxml
+Clone URL: https://github.com/google/paxml
+No keywords found in README
+==================================================
+Repository: 100DaysofMLCode
+Clone URL: https://github.com/NishkarshRaj/100DaysofMLCode
+No keywords found in README
+==================================================
+Repository: zoneminder.machine.learning
+Clone URL: https://github.com/dlandon/zoneminder.machine.learning
+No keywords found in README
+==================================================
+Repository: Deep-Learning-Specialization-Coursera
+Clone URL: https://github.com/abdur75648/Deep-Learning-Specialization-Coursera
+No keywords found in README
+==================================================
+Repository: vscode-tools-for-ai
+Clone URL: https://github.com/microsoft/vscode-tools-for-ai
+No keywords found in README
+==================================================
+Repository: Microservices-Based-Algorithmic-Trading-System
+Clone URL: https://github.com/saeed349/Microservices-Based-Algorithmic-Trading-System
+No keywords found in README
+==================================================
+Repository: MachineLearning-DeepLearning-Code-for-my-YouTube-Channel
+Clone URL: https://github.com/rohan-paul/MachineLearning-DeepLearning-Code-for-my-YouTube-Channel
+No keywords found in README
+==================================================
+Repository: log-anomaly-detector
+Clone URL: https://github.com/AICoE/log-anomaly-detector
+No keywords found in README
+==================================================
+Repository: mildlyoverfitted
+Clone URL: https://github.com/jankrepl/mildlyoverfitted
+No keywords found in README
+==================================================
+Repository: graphstorm
+Clone URL: https://github.com/awslabs/graphstorm
+No keywords found in README
+==================================================
+Repository: SciSharp-Stack-Examples
+Clone URL: https://github.com/SciSharp/SciSharp-Stack-Examples
+No keywords found in README
+==================================================
+Repository: gokart
+Clone URL: https://github.com/m3dev/gokart
+No keywords found in README
+==================================================
+Repository: Surrogates.jl
+Clone URL: https://github.com/SciML/Surrogates.jl
+No keywords found in README
+==================================================
+Repository: maml
+Clone URL: https://github.com/materialsvirtuallab/maml
+No keywords found in README
+==================================================
+Repository: scholar
+Clone URL: https://github.com/elixir-nx/scholar
+No keywords found in README
+==================================================
+Repository: terraform-provider-iterative
+Clone URL: https://github.com/iterative/terraform-provider-iterative
+No keywords found in README
+==================================================
+Repository: swarm-learning
+Clone URL: https://github.com/HewlettPackard/swarm-learning
+No keywords found in README
+==================================================
+Repository: Finding-missing-person-using-AI
+Clone URL: https://github.com/gaganmanku96/Finding-missing-person-using-AI
+No keywords found in README
+==================================================
+Repository: temporian
+Clone URL: https://github.com/google/temporian
+No keywords found in README
+==================================================
+Repository: MLOPs
+Clone URL: https://github.com/Bismuth-Consultancy-BV/MLOPs
+No keywords found in README
+==================================================
+Repository: sidechainnet
+Clone URL: https://github.com/jonathanking/sidechainnet
+No keywords found in README
+==================================================
+Repository: credential-digger
+Clone URL: https://github.com/SAP/credential-digger
+No keywords found in README
+==================================================
+Repository: SciMLSensitivity.jl
+Clone URL: https://github.com/SciML/SciMLSensitivity.jl
+No keywords found in README
+==================================================
+Repository: Learning-Python-Physics-Informed-Machine-Learning-PINNs-DeepONets
+Clone URL: https://github.com/jdtoscano94/Learning-Python-Physics-Informed-Machine-Learning-PINNs-DeepONets
+No keywords found in README
+==================================================
+Repository: machine-learning-round-table
+Clone URL: https://github.com/wantedly/machine-learning-round-table
+No keywords found in README
+==================================================
+Repository: macad-gym
+Clone URL: https://github.com/praveen-palanisamy/macad-gym
+No keywords found in README
+==================================================
+Repository: flink-ml
+Clone URL: https://github.com/apache/flink-ml
+No keywords found in README
+==================================================
+Repository: SciMLBenchmarks.jl
+Clone URL: https://github.com/SciML/SciMLBenchmarks.jl
+No keywords found in README
+==================================================
+Repository: datacamp
+Clone URL: https://github.com/ozlerhakan/datacamp
+No keywords found in README
+==================================================
+Repository: aws-step-functions-data-science-sdk-python
+Clone URL: https://github.com/aws/aws-step-functions-data-science-sdk-python
+No keywords found in README
+==================================================
+Repository: mlops-amazon-sagemaker
+Clone URL: https://github.com/aws-samples/mlops-amazon-sagemaker
+No keywords found in README
+==================================================
+Repository: ML-web-app
+Clone URL: https://github.com/imadelh/ML-web-app
+No keywords found in README
+==================================================
+Repository: DiffEqBase.jl
+Clone URL: https://github.com/SciML/DiffEqBase.jl
+No keywords found in README
+==================================================
+Repository: DATA-SCIENCE-NOTES
+Clone URL: https://github.com/PAVANINADELLA/DATA-SCIENCE-NOTES
+No keywords found in README
+==================================================
+Repository: cvml_project
+Clone URL: https://github.com/darylclimb/cvml_project
+No keywords found in README
+==================================================
+Repository: KernelFunctions.jl
+Clone URL: https://github.com/JuliaGaussianProcesses/KernelFunctions.jl
+No keywords found in README
+==================================================
+Repository: Kobra
+Clone URL: https://github.com/kobra-dev/Kobra
+No keywords found in README
+==================================================
+Repository: mosquito
+Clone URL: https://github.com/miro-ka/mosquito
+No keywords found in README
+==================================================
+Repository: react-native-ml-kit
+Clone URL: https://github.com/a7medev/react-native-ml-kit
+No keywords found in README
+==================================================
+Repository: MachineLearningWithPython
+Clone URL: https://github.com/JerryKurata/MachineLearningWithPython
+No keywords found in README
+==================================================
+Repository: recipes
+Clone URL: https://github.com/facebookresearch/recipes
+No keywords found in README
+==================================================
+Repository: shifu
+Clone URL: https://github.com/ShifuML/shifu
+No keywords found in README
+==================================================
+Repository: machinelearning-modelbuilder
+Clone URL: https://github.com/dotnet/machinelearning-modelbuilder
+No keywords found in README
+==================================================
+Repository: autograph
+Clone URL: https://github.com/charles-r-earp/autograph
+No keywords found in README
+==================================================
+Repository: Machine-Learning-for-Cybersecurity-Cookbook
+Clone URL: https://github.com/PacktPublishing/Machine-Learning-for-Cybersecurity-Cookbook
+No keywords found in README
+==================================================
+Repository: Stock-Prediction-Neural-Network-and-Machine-Learning-Examples
+Clone URL: https://github.com/D-dot-AT/Stock-Prediction-Neural-Network-and-Machine-Learning-Examples
+No keywords found in README
+==================================================
+Repository: DiffEqDocs.jl
+Clone URL: https://github.com/SciML/DiffEqDocs.jl
+No keywords found in README
+==================================================
+Repository: Machine-Learning-Algorithms-Materials
+Clone URL: https://github.com/krishnaik06/Machine-Learning-Algorithms-Materials
+No keywords found in README
+==================================================
+Repository: AIrsenal
+Clone URL: https://github.com/alan-turing-institute/AIrsenal
+No keywords found in README
+==================================================
+Repository: eggroll
+Clone URL: https://github.com/FederatedAI/eggroll
+No keywords found in README
+==================================================
+Repository: media-insights-on-aws
+Clone URL: https://github.com/aws-solutions/media-insights-on-aws
+No keywords found in README
+==================================================
+Repository: feature-selection-for-machine-learning
+Clone URL: https://github.com/solegalli/feature-selection-for-machine-learning
+No keywords found in README
+==================================================
+Repository: distributed-ml-patterns
+Clone URL: https://github.com/terrytangyuan/distributed-ml-patterns
+No keywords found in README
+==================================================
+Repository: mmeval
+Clone URL: https://github.com/open-mmlab/mmeval
+No keywords found in README
+==================================================
+Repository: AI-Scalpel-Trading-Bot
+Clone URL: https://github.com/hackobi/AI-Scalpel-Trading-Bot
+No keywords found in README
+==================================================
+Repository: smltar
+Clone URL: https://github.com/EmilHvitfeldt/smltar
+No keywords found in README
+==================================================
+Repository: dffml
+Clone URL: https://github.com/intel/dffml
+No keywords found in README
+==================================================
+Repository: hmni
+Clone URL: https://github.com/Christopher-Thornton/hmni
+No keywords found in README
+==================================================
+Repository: awesome-edge-machine-learning
+Clone URL: https://github.com/Bisonai/awesome-edge-machine-learning
+No keywords found in README
+==================================================
+Repository: eli5
+Clone URL: https://github.com/eli5-org/eli5
+No keywords found in README
+==================================================
+Repository: fracdiff
+Clone URL: https://github.com/fracdiff/fracdiff
+No keywords found in README
+==================================================
+Repository: MachineLearningSeminars
+Clone URL: https://github.com/andriygav/MachineLearningSeminars
+No keywords found in README
+==================================================
+Repository: KelpNet
+Clone URL: https://github.com/harujoh/KelpNet
+No keywords found in README
+==================================================
+Repository: AutoQuant
+Clone URL: https://github.com/AdrianAntico/AutoQuant
+No keywords found in README
+==================================================
+Repository: machine-learning-for-physicists
+Clone URL: https://github.com/FlorianMarquardt/machine-learning-for-physicists
+No keywords found in README
+==================================================
+Repository: adahessian
+Clone URL: https://github.com/amirgholami/adahessian
+No keywords found in README
+==================================================
+Repository: mlr3book
+Clone URL: https://github.com/mlr-org/mlr3book
+No keywords found in README
+==================================================
+Repository: mglearn
+Clone URL: https://github.com/amueller/mglearn
+No keywords found in README
+==================================================
+Repository: highdimensional-decision-boundary-plot
+Clone URL: https://github.com/tmadl/highdimensional-decision-boundary-plot
+No keywords found in README
+==================================================
+Repository: Graph-Machine-Learning
+Clone URL: https://github.com/PacktPublishing/Graph-Machine-Learning
+No keywords found in README
+==================================================
+Repository: lares
+Clone URL: https://github.com/laresbernardo/lares
+No keywords found in README
+==================================================
+Repository: image-similarity-clustering
+Clone URL: https://github.com/zegami/image-similarity-clustering
+No keywords found in README
+==================================================
+Repository: Stage-Whisper
+Clone URL: https://github.com/Stage-Whisper/Stage-Whisper
+No keywords found in README
+==================================================
+Repository: StochasticDiffEq.jl
+Clone URL: https://github.com/SciML/StochasticDiffEq.jl
+No keywords found in README
+==================================================
+Repository: Python-Learning
+Clone URL: https://github.com/AmirHosseinBabaeayan/Python-Learning
+No keywords found in README
+==================================================
+Repository: supervised-ML-case-studies-course
+Clone URL: https://github.com/juliasilge/supervised-ML-case-studies-course
+No keywords found in README
+==================================================
+Repository: python-dlpy
+Clone URL: https://github.com/sassoftware/python-dlpy
+No keywords found in README
+==================================================
+Repository: MLDatasets.jl
+Clone URL: https://github.com/JuliaML/MLDatasets.jl
+No keywords found in README
+==================================================
+Repository: machine-learning-exams
+Clone URL: https://github.com/fatosmorina/machine-learning-exams
+No keywords found in README
+==================================================
+Repository: PyTouch
+Clone URL: https://github.com/facebookresearch/PyTouch
+No keywords found in README
+==================================================
+Repository: natml-unity
+Clone URL: https://github.com/natmlx/natml-unity
+No keywords found in README
+==================================================
+Repository: AMLSim
+Clone URL: https://github.com/IBM/AMLSim
+No keywords found in README
+==================================================
+Repository: Stanford-Project-Predicting-stock-prices-using-a-LSTM-Network
+Clone URL: https://github.com/duemig/Stanford-Project-Predicting-stock-prices-using-a-LSTM-Network
+No keywords found in README
+==================================================
+Repository: machinehearing
+Clone URL: https://github.com/jonnor/machinehearing
+No keywords found in README
+==================================================
+Repository: drumbot
+Clone URL: https://github.com/magenta/drumbot
+No keywords found in README
+==================================================
+Repository: VerticaPy
+Clone URL: https://github.com/vertica/VerticaPy
+No keywords found in README
+==================================================
+Repository: jstarcraft-ai
+Clone URL: https://github.com/HongZhaoHua/jstarcraft-ai
+No keywords found in README
+==================================================
+Repository: aws-machine-learning-university-dte
+Clone URL: https://github.com/aws-samples/aws-machine-learning-university-dte
+No keywords found in README
+==================================================
+Repository: mace
+Clone URL: https://github.com/ACEsuit/mace
+No keywords found in README
+==================================================
+Repository: Hyperspectral_Image_Analysis_Simplified
+Clone URL: https://github.com/syamkakarla98/Hyperspectral_Image_Analysis_Simplified
+No keywords found in README
+==================================================
+Repository: DataScienceTools
+Clone URL: https://github.com/Jcharis/DataScienceTools
+No keywords found in README
+==================================================
+Repository: smart_importer
+Clone URL: https://github.com/beancount/smart_importer
+No keywords found in README
+==================================================
+Repository: oreilly_machine_learning_from_scratch
+Clone URL: https://github.com/thomasnield/oreilly_machine_learning_from_scratch
+No keywords found in README
+==================================================
+Repository: machine-learning
+Clone URL: https://github.com/ocademy-ai/machine-learning
+No keywords found in README
+==================================================
+Repository: Hebrew-Machine-and-Deep-Learning-Resources
+Clone URL: https://github.com/AvrahamRaviv/Hebrew-Machine-and-Deep-Learning-Resources
+No keywords found in README
+==================================================
+Repository: Sundials.jl
+Clone URL: https://github.com/SciML/Sundials.jl
+No keywords found in README
+==================================================
+Repository: DynaML
+Clone URL: https://github.com/tailhq/DynaML
+No keywords found in README
+==================================================
+Repository: meka
+Clone URL: https://github.com/Waikato/meka
+No keywords found in README
+==================================================
+Repository: histocartography
+Clone URL: https://github.com/BiomedSciAI/histocartography
+No keywords found in README
+==================================================
+Repository: batchflow
+Clone URL: https://github.com/analysiscenter/batchflow
+No keywords found in README
+==================================================
+Repository: FSharp.Stats
+Clone URL: https://github.com/fslaborg/FSharp.Stats
+No keywords found in README
+==================================================
+Repository: AIfES_for_Arduino
+Clone URL: https://github.com/Fraunhofer-IMS/AIfES_for_Arduino
+No keywords found in README
+==================================================
+Repository: causalML-teaching
+Clone URL: https://github.com/MCKnaus/causalML-teaching
+No keywords found in README
+==================================================
+Repository: MachineLearningWithMe
+Clone URL: https://github.com/moon-hotel/MachineLearningWithMe
+No keywords found in README
+==================================================
+Repository: qml
+Clone URL: https://github.com/qmlcode/qml
+No keywords found in README
+==================================================
+Repository: Handwritten-Digit-Recognition-using-Deep-Learning
+Clone URL: https://github.com/anujdutt9/Handwritten-Digit-Recognition-using-Deep-Learning
+No keywords found in README
+==================================================
+Repository: scicloj.ml
+Clone URL: https://github.com/scicloj/scicloj.ml
+No keywords found in README
+==================================================
+Repository: mvlearn
+Clone URL: https://github.com/mvlearn/mvlearn
+No keywords found in README
+==================================================
+Repository: MLBase.jl
+Clone URL: https://github.com/JuliaStats/MLBase.jl
+No keywords found in README
+==================================================
+Repository: python-tensorflow-google
+Clone URL: https://github.com/AntonioErdeljac/python-tensorflow-google
+No keywords found in README
+==================================================
+Repository: descriptastorus
+Clone URL: https://github.com/bp-kelley/descriptastorus
+No keywords found in README
+==================================================
+Repository: ReservoirComputing.jl
+Clone URL: https://github.com/SciML/ReservoirComputing.jl
+No keywords found in README
+==================================================
+Repository: AutoML_Alex
+Clone URL: https://github.com/Alex-Lekov/AutoML_Alex
+No keywords found in README
+==================================================
+Repository: p2rank
+Clone URL: https://github.com/rdk/p2rank
+No keywords found in README
+==================================================
+Repository: PPML-Resource
+Clone URL: https://github.com/Ye-D/PPML-Resource
+No keywords found in README
+==================================================
+Repository: Integrals.jl
+Clone URL: https://github.com/SciML/Integrals.jl
+No keywords found in README
+==================================================
+Repository: Heart-Disease-Prediction
+Clone URL: https://github.com/kb22/Heart-Disease-Prediction
+No keywords found in README
+==================================================
+Repository: climin
+Clone URL: https://github.com/BRML/climin
+No keywords found in README
+==================================================
+Repository: EvadeML-Zoo
+Clone URL: https://github.com/mzweilin/EvadeML-Zoo
+No keywords found in README
+==================================================
+Repository: shainet
+Clone URL: https://github.com/NeuraLegion/shainet
+No keywords found in README
+==================================================
+Repository: matrixcalc
+Clone URL: https://github.com/mitmath/matrixcalc
+No keywords found in README
+==================================================
+Repository: RecursiveArrayTools.jl
+Clone URL: https://github.com/SciML/RecursiveArrayTools.jl
+No keywords found in README
+==================================================
+Repository: S2ML-Generators
+Clone URL: https://github.com/somewheresy/S2ML-Generators
+No keywords found in README
+==================================================
+Repository: aws-virtual-gpu-device-plugin
+Clone URL: https://github.com/awslabs/aws-virtual-gpu-device-plugin
+No keywords found in README
+==================================================
+Repository: neuro
+Clone URL: https://github.com/intelligo-mn/neuro
+No keywords found in README
+==================================================
+Repository: XENA
+Clone URL: https://github.com/zarkones/XENA
+No keywords found in README
+==================================================
+Repository: book-ml-sem
+Clone URL: https://github.com/chansonZ/book-ml-sem
+No keywords found in README
+==================================================
+Repository: ProphitBet-Soccer-Bets-Predictor
+Clone URL: https://github.com/kochlisGit/ProphitBet-Soccer-Bets-Predictor
+No keywords found in README
+==================================================
+Repository: secml_malware
+Clone URL: https://github.com/pralab/secml_malware
+No keywords found in README
+==================================================
+Repository: composable_kernel
+Clone URL: https://github.com/ROCmSoftwarePlatform/composable_kernel
+No keywords found in README
+==================================================
+Repository: hep_ml
+Clone URL: https://github.com/arogozhnikov/hep_ml
+No keywords found in README
+==================================================
+Repository: aby3
+Clone URL: https://github.com/ladnir/aby3
+No keywords found in README
+==================================================
+Repository: iml-unity
+Clone URL: https://github.com/Interactml/iml-unity
+No keywords found in README
+==================================================
+Repository: ml_algo
+Clone URL: https://github.com/gyrdym/ml_algo
+No keywords found in README
+==================================================
+Repository: Machine-Learning-for-Time-Series-with-Python
+Clone URL: https://github.com/PacktPublishing/Machine-Learning-for-Time-Series-with-Python
+No keywords found in README
+==================================================
+Repository: Log3C
+Clone URL: https://github.com/logpai/Log3C
+No keywords found in README
+==================================================
+Repository: numerapi
+Clone URL: https://github.com/uuazed/numerapi
+No keywords found in README
+==================================================
+Repository: ml-datasets
+Clone URL: https://github.com/amitness/ml-datasets
+No keywords found in README
+==================================================
+Repository: rsparse
+Clone URL: https://github.com/rexyai/rsparse
+No keywords found in README
+==================================================
+Repository: vscode-dvc
+Clone URL: https://github.com/iterative/vscode-dvc
+No keywords found in README
+==================================================
+Repository: sentimentalizer
+Clone URL: https://github.com/malavbhavsar/sentimentalizer
+No keywords found in README
+==================================================
+Repository: netsaur
+Clone URL: https://github.com/denosaurs/netsaur
+No keywords found in README
+==================================================
+Repository: machine-learning-articles
+Clone URL: https://github.com/khuyentran1401/machine-learning-articles
+No keywords found in README
+==================================================
+Repository: sigmoidal_ai
+Clone URL: https://github.com/carlosfab/sigmoidal_ai
+No keywords found in README
+==================================================
+Repository: applyingml
+Clone URL: https://github.com/eugeneyan/applyingml
+No keywords found in README
+==================================================
+Repository: skills-ml
+Clone URL: https://github.com/workforce-data-initiative/skills-ml
+No keywords found in README
+==================================================
+Repository: mlx
+Clone URL: https://github.com/machine-learning-exchange/mlx
+No keywords found in README
+==================================================
+Repository: nova
+Clone URL: https://github.com/hcmlab/nova
+No keywords found in README
+==================================================
+Repository: Machine-Learning-and-Data-Analysis-Coursera-Yandex-MIPT
+Clone URL: https://github.com/maxis42/Machine-Learning-and-Data-Analysis-Coursera-Yandex-MIPT
+No keywords found in README
+==================================================
+Repository: trident
+Clone URL: https://github.com/kakaobrain/trident
+No keywords found in README
+==================================================
+Repository: Hands-on-Machine-Learning-for-Cyber-Security
+Clone URL: https://github.com/PacktPublishing/Hands-on-Machine-Learning-for-Cyber-Security
+No keywords found in README
+==================================================
+Repository: Machine-Learning-101
+Clone URL: https://github.com/muhammadanas0716/Machine-Learning-101
+No keywords found in README
+==================================================
+Repository: Arduino_TensorFlowLite_ESP32
+Clone URL: https://github.com/tanakamasayuki/Arduino_TensorFlowLite_ESP32
+No keywords found in README
+==================================================
+Repository: ML..Interview..Preparation
+Clone URL: https://github.com/ThinamXx/ML..Interview..Preparation
+No keywords found in README
+==================================================
+Repository: stocks-prediction-Machine-learning-RealTime-TensorFlow
+Clone URL: https://github.com/Leci37/stocks-prediction-Machine-learning-RealTime-TensorFlow
+No keywords found in README
+==================================================
+Repository: atomai
+Clone URL: https://github.com/pycroscopy/atomai
+No keywords found in README
+==================================================
+Repository: ARSET_ML_Fundamentals
+Clone URL: https://github.com/NASAARSET/ARSET_ML_Fundamentals
+No keywords found in README
+==================================================
+Repository: python3.info
+Clone URL: https://github.com/astromatt/python3.info
+No keywords found in README
+==================================================
+Repository: babylog
+Clone URL: https://github.com/thebabylonai/babylog
+No keywords found in README
+==================================================
+Repository: M-LOOP
+Clone URL: https://github.com/michaelhush/M-LOOP
+No keywords found in README
+==================================================
+Repository: Digit-Recognizer
+Clone URL: https://github.com/akshaybahadur21/Digit-Recognizer
+No keywords found in README
+==================================================
+Repository: grand-challenge.org
+Clone URL: https://github.com/comic/grand-challenge.org
+No keywords found in README
+==================================================
+Repository: cornell-cs5785-2023-applied-ml
+Clone URL: https://github.com/kuleshov/cornell-cs5785-2023-applied-ml
+No keywords found in README
+==================================================
+Repository: OSAS
+Clone URL: https://github.com/adobe/OSAS
+No keywords found in README
+==================================================
+Repository: VerifAI
+Clone URL: https://github.com/BerkeleyLearnVerify/VerifAI
+No keywords found in README
+==================================================
+Repository: programming-machine-learning-livebooks
+Clone URL: https://github.com/nickgnd/programming-machine-learning-livebooks
+No keywords found in README
+==================================================
+Repository: PythonFOAM
+Clone URL: https://github.com/argonne-lcf/PythonFOAM
+No keywords found in README
+==================================================
+Repository: paper-survey
+Clone URL: https://github.com/shunk031/paper-survey
+No keywords found in README
+==================================================
+Repository: Advanced-Machine-Learning-with-Python
+Clone URL: https://github.com/PacktPublishing/Advanced-Machine-Learning-with-Python
+No keywords found in README
+==================================================
+Repository: mlq
+Clone URL: https://github.com/tomgrek/mlq
+No keywords found in README
+==================================================
+Repository: MLJBase.jl
+Clone URL: https://github.com/JuliaAI/MLJBase.jl
+No keywords found in README
+==================================================
+Repository: DL-Learner
+Clone URL: https://github.com/SmartDataAnalytics/DL-Learner
+No keywords found in README
+==================================================
+Repository: aml-real-time-ai
+Clone URL: https://github.com/Azure/aml-real-time-ai
+No keywords found in README
+==================================================
+Repository: mlcube
+Clone URL: https://github.com/mlcommons/mlcube
+No keywords found in README
+==================================================
+Repository: artificial-intelligence-and-machine-learning
+Clone URL: https://github.com/yacineMahdid/artificial-intelligence-and-machine-learning
+No keywords found in README
+==================================================
+Repository: BioAutoMATED
+Clone URL: https://github.com/jackievaleri/BioAutoMATED
+No keywords found in README
+==================================================
+Repository: Machine-Learning
+Clone URL: https://github.com/Mixtape-Sessions/Machine-Learning
+No keywords found in README
+==================================================
+Repository: Machine-Learning-Roadmap
+Clone URL: https://github.com/shanmukh05/Machine-Learning-Roadmap
+No keywords found in README
+==================================================
+Repository: CS229-Python
+Clone URL: https://github.com/rickwierenga/CS229-Python
+No keywords found in README
+==================================================
+Repository: ml-cpp
+Clone URL: https://github.com/elastic/ml-cpp
+No keywords found in README
+==================================================
+Repository: awesome-small-molecule-ml
+Clone URL: https://github.com/benb111/awesome-small-molecule-ml
+No keywords found in README
+==================================================
+Repository: STMems_Machine_Learning_Core
+Clone URL: https://github.com/STMicroelectronics/STMems_Machine_Learning_Core
+No keywords found in README
+==================================================
+Repository: marius
+Clone URL: https://github.com/marius-team/marius
+No keywords found in README
+==================================================
+Repository: LossFunctions.jl
+Clone URL: https://github.com/JuliaML/LossFunctions.jl
+No keywords found in README
+==================================================
+Repository: chemml
+Clone URL: https://github.com/hachmannlab/chemml
+No keywords found in README
+==================================================
+Repository: Machine-Learning-Engineering-with-Python
+Clone URL: https://github.com/PacktPublishing/Machine-Learning-Engineering-with-Python
+No keywords found in README
+==================================================
+Repository: Course_AWS_Certified_Machine_Learning
+Clone URL: https://github.com/ACloudGuru-Resources/Course_AWS_Certified_Machine_Learning
+No keywords found in README
+==================================================
+Repository: Statistics-for-Machine-Learning
+Clone URL: https://github.com/PacktPublishing/Statistics-for-Machine-Learning
+No keywords found in README
+==================================================
+Repository: NumericsOfML
+Clone URL: https://github.com/philipphennig/NumericsOfML
+No keywords found in README
+==================================================
+Repository: data
+Clone URL: https://github.com/dataprofessor/data
+No keywords found in README
+==================================================
+Repository: PapersReimplementations
+Clone URL: https://github.com/BrianPulfer/PapersReimplementations
+No keywords found in README
+==================================================
+Repository: doddle-model
+Clone URL: https://github.com/picnicml/doddle-model
+No keywords found in README
+==================================================
+Repository: TensorHive
+Clone URL: https://github.com/roscisz/TensorHive
+No keywords found in README
+==================================================
+Repository: embeddedml
+Clone URL: https://github.com/jonnor/embeddedml
+No keywords found in README
+==================================================
+Repository: Gravity
+Clone URL: https://github.com/coin-or/Gravity
+No keywords found in README
+==================================================
+Repository: Intrusion-and-anomaly-detection-with-machine-learning
+Clone URL: https://github.com/slrbl/Intrusion-and-anomaly-detection-with-machine-learning
+No keywords found in README
+==================================================
+Repository: Aiops-Learning-Resources
+Clone URL: https://github.com/LiaoWenzhe/Aiops-Learning-Resources
+No keywords found in README
+==================================================
+Repository: machine-learning-imbalanced-data
+Clone URL: https://github.com/solegalli/machine-learning-imbalanced-data
+No keywords found in README
+==================================================
+Repository: circomlib-ml
+Clone URL: https://github.com/socathie/circomlib-ml
+No keywords found in README
+==================================================
+Repository: python-flask-sklearn-docker-template
+Clone URL: https://github.com/Soluto/python-flask-sklearn-docker-template
+No keywords found in README
+==================================================
+Repository: 100_Days_MLDL
+Clone URL: https://github.com/ds-teja/100_Days_MLDL
+No keywords found in README
+==================================================
+Repository: incubator-liminal
+Clone URL: https://github.com/apache/incubator-liminal
+No keywords found in README
+==================================================
+Repository: aletheia
+Clone URL: https://github.com/daniellerch/aletheia
+No keywords found in README
+==================================================
+Repository: pennylane-qiskit
+Clone URL: https://github.com/PennyLaneAI/pennylane-qiskit
+No keywords found in README
+==================================================
+Repository: onnx-scala
+Clone URL: https://github.com/EmergentOrder/onnx-scala
+No keywords found in README
+==================================================
+Repository: scikit-learn-ts
+Clone URL: https://github.com/transitive-bullshit/scikit-learn-ts
+No keywords found in README
+==================================================
+Repository: mlops-workload-orchestrator
+Clone URL: https://github.com/aws-solutions/mlops-workload-orchestrator
+No keywords found in README
+==================================================
+Repository: rtemis
+Clone URL: https://github.com/egenn/rtemis
+No keywords found in README
+==================================================
+Repository: malt
+Clone URL: https://github.com/themetaschemer/malt
+No keywords found in README
+==================================================
+Repository: Machine-Learning-CPP
+Clone URL: https://github.com/GarethRichards/Machine-Learning-CPP
+No keywords found in README
+==================================================
+Repository: cleartk
+Clone URL: https://github.com/ClearTK/cleartk
+No keywords found in README
+==================================================
+Repository: cloud-ml-examples
+Clone URL: https://github.com/rapidsai/cloud-ml-examples
+No keywords found in README
+==================================================
+Repository: MachineLearningRemote-Unreal
+Clone URL: https://github.com/getnamo/MachineLearningRemote-Unreal
+No keywords found in README
+==================================================
+Repository: subsync
+Clone URL: https://github.com/tympanix/subsync
+No keywords found in README
+==================================================
+Repository: MLCompetitionHub
+Clone URL: https://github.com/LogicJake/MLCompetitionHub
+No keywords found in README
+==================================================
+Repository: CheckM2
+Clone URL: https://github.com/chklovski/CheckM2
+No keywords found in README
+==================================================
+Repository: ArrayInterface.jl
+Clone URL: https://github.com/JuliaArrays/ArrayInterface.jl
+No keywords found in README
+==================================================
+Repository: relataly-public-python-tutorials
+Clone URL: https://github.com/flo7up/relataly-public-python-tutorials
+No keywords found in README
+==================================================
+Repository: geospatial-ml
+Clone URL: https://github.com/opengeos/geospatial-ml
+No keywords found in README
+==================================================
+Repository: MachineLearningNotebooks
+Clone URL: https://github.com/eclarson/MachineLearningNotebooks
+No keywords found in README
+==================================================
+Repository: comet-examples
+Clone URL: https://github.com/comet-ml/comet-examples
+No keywords found in README
+==================================================
+Repository: funq
+Clone URL: https://github.com/psaris/funq
+No keywords found in README
+==================================================
+Repository: pandora
+Clone URL: https://github.com/genular/pandora
+No keywords found in README
+==================================================
+Repository: Hands-On-Data-Science-and-Python-Machine-Learning
+Clone URL: https://github.com/PacktPublishing/Hands-On-Data-Science-and-Python-Machine-Learning
+No keywords found in README
+==================================================
+Repository: BlackBoxAuditing
+Clone URL: https://github.com/algofairness/BlackBoxAuditing
+No keywords found in README
+==================================================
+Repository: Deep_Learning_in_Python_2018
+Clone URL: https://github.com/snrazavi/Deep_Learning_in_Python_2018
+No keywords found in README
+==================================================
+Repository: mlr3pipelines
+Clone URL: https://github.com/mlr-org/mlr3pipelines
+No keywords found in README
+==================================================
+Repository: modelchimp
+Clone URL: https://github.com/ModelChimp/modelchimp
+No keywords found in README
+==================================================
+Repository: Machine-Learning-text
+Clone URL: https://github.com/Runnrairu/Machine-Learning-text
+No keywords found in README
+==================================================
+Repository: fwumious_wabbit
+Clone URL: https://github.com/outbrain/fwumious_wabbit
+No keywords found in README
+==================================================
+Repository: china-dictatorhsip-7
+Clone URL: https://github.com/cirosantilli/china-dictatorhsip-7
+No keywords found in README
+==================================================
+Repository: FitSNAP
+Clone URL: https://github.com/FitSNAP/FitSNAP
+No keywords found in README
+==================================================
+Repository: sGDML
+Clone URL: https://github.com/stefanch/sGDML
+No keywords found in README
+==================================================
+Repository: shapr
+Clone URL: https://github.com/NorskRegnesentral/shapr
+No keywords found in README
+==================================================
+Repository: moses
+Clone URL: https://github.com/opencog/moses
+No keywords found in README
+==================================================
+Repository: Machine-Learning-With-Go
+Clone URL: https://github.com/PacktPublishing/Machine-Learning-With-Go
+No keywords found in README
+==================================================
+Repository: Elevation
+Clone URL: https://github.com/microsoft/Elevation
+No keywords found in README
+==================================================
+Repository: sales_forecasting
+Clone URL: https://github.com/mollyryanruby/sales_forecasting
+No keywords found in README
+==================================================
+Repository: amazon-sagemaker-mlflow-fargate
+Clone URL: https://github.com/aws-samples/amazon-sagemaker-mlflow-fargate
+No keywords found in README
+==================================================
+Repository: rune-breaker
+Clone URL: https://github.com/gbrlfaria/rune-breaker
+No keywords found in README
+==================================================
+Repository: frouros
+Clone URL: https://github.com/IFCA-Advanced-Computing/frouros
+No keywords found in README
+==================================================
+Repository: taxinomitis
+Clone URL: https://github.com/IBM/taxinomitis
+No keywords found in README
+==================================================
+Repository: clubber.ml
+Clone URL: https://github.com/BUPT/clubber.ml
+No keywords found in README
+==================================================
+Repository: book-mlearn-gyomu
+Clone URL: https://github.com/kujirahand/book-mlearn-gyomu
+No keywords found in README
+==================================================
+Repository: arangopipe
+Clone URL: https://github.com/arangoml/arangopipe
+No keywords found in README
+==================================================
+Repository: NBodySimulator.jl
+Clone URL: https://github.com/SciML/NBodySimulator.jl
+No keywords found in README
+==================================================
+Repository: DiffEqBayes.jl
+Clone URL: https://github.com/SciML/DiffEqBayes.jl
+No keywords found in README
+==================================================
+Repository: machine_learning
+Clone URL: https://github.com/jgmakin/machine_learning
+No keywords found in README
+==================================================
+Repository: rul_codes_open
+Clone URL: https://github.com/biswajitsahoo1111/rul_codes_open
+No keywords found in README
+==================================================
+Repository: brightwire
+Clone URL: https://github.com/jdermody/brightwire
+No keywords found in README
+==================================================
+Repository: pyStudio
+Clone URL: https://github.com/elmpystudio/pyStudio
+No keywords found in README
+==================================================
+Repository: mle-interview-questions
+Clone URL: https://github.com/backpropagation64/mle-interview-questions
+No keywords found in README
+==================================================
+Repository: datalab-ml-training
+Clone URL: https://github.com/bbc/datalab-ml-training
+No keywords found in README
+==================================================
+Repository: raster4ml
+Clone URL: https://github.com/souravbhadra/raster4ml
+No keywords found in README
+==================================================
+Repository: scikit.js
+Clone URL: https://github.com/javascriptdata/scikit.js
+No keywords found in README
+==================================================
+Repository: MIPLearn
+Clone URL: https://github.com/ANL-CEEESA/MIPLearn
+No keywords found in README
+==================================================
+Repository: JumpProcesses.jl
+Clone URL: https://github.com/SciML/JumpProcesses.jl
+No keywords found in README
+==================================================
+Repository: AgML
+Clone URL: https://github.com/Project-AgML/AgML
+No keywords found in README
+==================================================
+Repository: mldsp-papers
+Clone URL: https://github.com/GuitarML/mldsp-papers
+No keywords found in README
+==================================================
