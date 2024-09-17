@@ -74,6 +74,3 @@ pip install -r requirements.txt
 
 Este projeto foi desenvolvido por Ronaldo Mendonça Zica como TCC da graduação em Engenharia de Computação.
 
-## Licença
-
-Este projeto está licenciado sob a licença MIT - veja o arquivo LICENSE para mais detalhes.
